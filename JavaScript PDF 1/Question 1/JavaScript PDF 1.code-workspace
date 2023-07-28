@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../JavaScript PDF 2"
+		},
+		{
+			"path": "../../JavaScript PDF 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript PDF 1"
+	}
+}
